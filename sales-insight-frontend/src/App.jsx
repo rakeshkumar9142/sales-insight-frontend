@@ -263,7 +263,7 @@ function App() {
             <span className="text-indigo-400 font-semibold">Gemini</span>
             <span className="text-xl">🐇</span>
           </div>
-          <p>© {new Date().getFullYear()} – Placement Demo for [Company Name]</p>
+          <p>© {new Date().getFullYear()} – Placement Demo</p>
         </footer>
       </div>
     </>
